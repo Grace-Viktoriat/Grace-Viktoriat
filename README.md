@@ -1,16 +1,23 @@
-## Hi there 👋
+Julie Mireille Bokonden
 
-<!--
-**Grace-Viktoriat/Grace-Viktoriat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Multimodal AI | Deep Learning | Applied Research | Vision-Language Systems
 
-Here are some ideas to get you started:
+I design intelligent systems that combine computer vision and language models for real-world impact in aviation, health, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+- Transfer Learning & Computer Vision
+- Vision-Language Models (BLIP, Transformers)
+- Multimodal AI Architectures
+- Applied AI for Safety & Infrastructure
+
+Featured Project
+ Multimodal Aircraft Damage Detection  
+VGG16 + BLIP system for classification, captioning, and summarization.
+
+Repository:
+https://github.com/Grace-Viktoriat/multimodal-aircraft-damage-detection
+
+Technical Stack
+Python | TensorFlow | Keras | PyTorch | Transformers | NumPy | Matplotlib
+
+Building practical AI systems with research-grade thinking.
